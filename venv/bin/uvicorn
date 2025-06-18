@@ -1,4 +1,4 @@
-#!/Users/jongho.jung/Desktop/jongho_project/PoC/searching_cosmetics_applied_patents/venv/bin/python3
+#!/Users/jongho.jung/Desktop/jongho_project/PoC/searching_cosmetic_applied_patents/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
