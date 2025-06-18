@@ -1,0 +1,26 @@
+{
+  "api_settings": {
+    "service_key": "",
+    "base_url": "http://plus.kipris.or.kr/kipo-api/kipi/patUtiModInfoSearchSevice",
+    "timeout": 30
+  },
+  "search_settings": {
+    "search_keyword": "조성물",
+    "right_holder": "코스맥스 주식회사",
+    "right_holder_code": "120140131250",
+    "max_patents_per_search": 1000,
+    "page_size": 100,
+    "delay_between_requests": 1.0
+  },
+  "output_settings": {
+    "output_directory": "patent_results",
+    "save_search_results": true,
+    "save_claims": true,
+    "download_pdfs": true
+  },
+  "app_settings": {
+    "debug": false,
+    "host": "0.0.0.0",
+    "port": 8000
+  }
+}

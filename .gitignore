@@ -1,0 +1,6 @@
+.env
+*.json
+*.pdf
+*.txt
+# 가상 환경
+venv/
